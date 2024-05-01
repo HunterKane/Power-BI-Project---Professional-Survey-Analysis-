@@ -6,7 +6,7 @@ The sales manager has reached out to us requesting certain data and dashboards.
 
 ### Step 1 Create a Business Demand Overview Report 
 
-- Give the detials in the email, a business demand overview report is the first step to outlining the process about what data/visualization is to be prepared and who will receive it.
+- Give the details in the email, a business demand overview report is the first step to outlining the process of what data/visualization is to be prepared and who will receive it.
 
 
 ### Step 2 Cleaning & Transforming Data
@@ -18,8 +18,8 @@ The sales manager has reached out to us requesting certain data and dashboards.
 
 - Create dashboards of the requested data to share with the sales manager
 
-
-#### Reference 
+----------------------------------------------------------------------------------------------------------------------
+## Reference 
 
 This project idea was taught by Ali Ahmad in his Data Analyst Portfolio Project series on Youtube 
 
